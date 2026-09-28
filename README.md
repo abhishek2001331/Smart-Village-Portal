@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Village Portal (स्मार्ट विलेज पोर्टल)
 
 A production-ready full-stack **MERN Application** connecting village residents with Gram Panchayat administration. Facilitating transparent public service tracking, government schemes exploration, grievance redressal, agriculture advisories, emergency helplines, local employment, and analytical administrative management.
@@ -128,3 +129,7 @@ npm run client   # Starts React Vite Client at http://localhost:5173
 
 ## 📄 License
 This project is open-source under the MIT License. Suitable for college final-year software engineering project demonstrations.
+=======
+# Smart-Village-Portal
+A web-based Smart Village Portal for accessing village information and services.
+>>>>>>> 1261fbd2bfe25e72e931a038604f0d319434aed4
