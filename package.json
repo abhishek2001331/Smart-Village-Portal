@@ -1,0 +1,25 @@
+{
+  "name": "smart-village-portal",
+  "version": "1.0.0",
+  "description": "Smart Village Portal - Full-Stack MERN Application for Rural Administration",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && node seed/seed.js",
+    "build:client": "cd client && npm run build",
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install"
+  },
+  "keywords": [
+    "mern",
+    "smart-village",
+    "react",
+    "node",
+    "express",
+    "mongodb",
+    "bootstrap"
+  ],
+  "author": "Smart Village Dev Team",
+  "license": "MIT"
+}
